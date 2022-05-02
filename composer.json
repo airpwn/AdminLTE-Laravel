@@ -12,7 +12,8 @@
     "homepage": "https://github.com/airpwn/adminlte-laravel",
     "keywords": ["Laravel", "AdminLTELaravel"],
     "require": {
-        "illuminate/support": "~9"
+        "illuminate/support": "~9",
+		"almasaeed2010/adminlte": "3.2.*"
     },
     "require-dev": {
         "phpunit/phpunit": "~9.0",
